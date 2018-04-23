@@ -1,0 +1,25 @@
+﻿<Window x:Class="Digital_Gauge.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+        xmlns:dxga="http://schemas.devexpress.com/winfx/2008/xaml/gauges"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <dxga:DigitalGaugeControl Name="digitalGaugeControl1" Text="ON AIR"
+                                  VerticalAlignment="Center">
+            <dxga:DigitalGaugeControl.Model>
+                <dxga:DigitalClassicModel />
+            </dxga:DigitalGaugeControl.Model>
+            <dxga:DigitalGaugeControl.Layers>
+                <dxga:DigitalGaugeLayer />
+            </dxga:DigitalGaugeControl.Layers>
+            <dxga:DigitalGaugeControl.SymbolView>
+                <dxga:MatrixView8x14>
+                    <dxga:MatrixView8x14.Animation>
+                        <dxga:CreepingLineAnimation Repeat="True" 
+                                                    RefreshTime="00:00:01" />
+                    </dxga:MatrixView8x14.Animation>
+                </dxga:MatrixView8x14>
+            </dxga:DigitalGaugeControl.SymbolView>
+        </dxga:DigitalGaugeControl>
+    </Grid>
+</Window>
