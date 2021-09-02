@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital Gauge", "Digital Gauge\Digital Gauge.csproj", "{8A6D80F7-D1B8-4E01-AA0E-EDB5E3D60EE8}"
 EndProject
 Global
