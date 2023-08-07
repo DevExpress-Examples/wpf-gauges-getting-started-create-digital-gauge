@@ -3,16 +3,21 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E3517)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
 
-* [MainWindow.xaml](./CS/Digital Gauge/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Digital Gauge/MainWindow.xaml))
-<!-- default file list end -->
-# DXGauges Getting Started - Lesson 3 - Create a Digital Gauge
+# WPF Gauges Getting Started - Lesson 3 - Create a Digital Gauge
 
+This tutorial demonstrates how to create a Digital gauge and adjust its common settings.
 
-<p>This tutorial demonstrates how to create a Digital gauge and adjust its common settings.</p>
+## Files to Review
 
-<br/>
+* [MainWindow.xaml](./CS/Digital%20Gauge/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Digital%20Gauge/MainWindow.xaml))
 
+## Documentation
 
+* [Lesson 3 - Create a Digital Gauge](https://docs.devexpress.com/WPF/10664/controls-and-libraries/gauge-controls/getting-started/lesson-3-create-a-digital-gauge)
+* [DigitalGaugeControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Gauges.DigitalGaugeControl)
+
+## More Examples
+
+* [WPF Gauges - Customize the Digital Gauge Control](https://github.com/DevExpress-Examples/how-to-use-a-digital-gauge-control-e3525)
+* [WPF Gauges - Set the Width and Height of Symbols in the Digital Gauge Control](https://github.com/DevExpress-Examples/how-to-set-the-width-and-height-of-symbols-in-the-digital-gauge-control-e3736)
