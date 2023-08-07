@@ -8,6 +8,8 @@
 
 This tutorial demonstrates how to create a Digital gauge and adjust its common settings.
 
+![image](https://github.com/DevExpress-Examples/dxgauges-getting-started-lesson-3-create-a-digital-gauge-e3517/assets/65009440/4774f82a-921a-4224-b556-5d6962bd8fee)
+
 ## Files to Review
 
 * [MainWindow.xaml](./CS/Digital%20Gauge/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Digital%20Gauge/MainWindow.xaml))
