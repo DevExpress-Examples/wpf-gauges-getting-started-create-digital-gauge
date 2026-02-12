@@ -25,7 +25,7 @@ This tutorial demonstrates how to create a Digital gauge and adjust its common s
 * [WPF Gauges - Customize the Digital Gauge Control](https://github.com/DevExpress-Examples/how-to-use-a-digital-gauge-control-e3525)
 * [WPF Gauges - Set the Width and Height of Symbols in the Digital Gauge Control](https://github.com/DevExpress-Examples/how-to-set-the-width-and-height-of-symbols-in-the-digital-gauge-control-e3736)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-gauges-getting-started-create-digital-gauge&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-gauges-getting-started-create-digital-gauge&~~~was_helpful=no)
 
